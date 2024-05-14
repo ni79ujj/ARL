@@ -10,11 +10,6 @@
 
 **ARL官方开源项目关闭的具体原因请看：[https://mp.weixin.qq.com/s/hM3t3lYQVqDOlrLKz3_TSQ](https://mp.weixin.qq.com/s/hM3t3lYQVqDOlrLKz3_TSQ)**
 
-### 万分感谢各位师傅的Star
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Aabyss-Team/ARL&type=Date)](https://star-history.com/#Aabyss-Team/ARL&Date)
-
-资产灯塔，不仅仅是域名收集
 
 ## 2# 简介
 
